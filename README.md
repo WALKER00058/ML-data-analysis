@@ -4,7 +4,9 @@ AI-powered Python tool to analyze your CSV datasets, detect anomalies, predict m
 
 🚀 Features
 Basic Dataset Info – Rows, columns, missing values.
+
 Correlation Insights – Detects strong correlations between features.
+
 Anomaly Detection – Flags unusual data points using Isolation Forest.
 Train ML Model – Random Forest (classification or regression) to predict target variables.
 Fill Missing Values – Automatically fills missing fields in the dataset using ML.
