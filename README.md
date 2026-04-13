@@ -15,8 +15,8 @@ An AI-powered Streamlit app that analyzes datasets, fills missing values, and pr
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/WALKER00058/ML-data-analysis.git
+cd ML-data-analysis
 ```
 
 2. Install dependencies:
