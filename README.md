@@ -46,6 +46,7 @@ streamlit run app.py
 ##  Input
 
 Upload any CSV file with numeric and categorical data.
+(A sampple CSV file has been attached for testing)
 
 ---
 
