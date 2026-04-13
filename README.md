@@ -6,7 +6,7 @@ An AI-powered Streamlit app that analyzes datasets, fills missing values, and pr
 
 ##  Live App
 
- [Use the app here]([https://your-app.streamlit.app](https://ml-data-analysis-35vfycdxupjhgrvdu8jhnd.streamlit.app))
+ [Use the app here](https://ml-data-analysis-35vfycdxupjhgrvdu8jhnd.streamlit.app)
 
 ---
 
